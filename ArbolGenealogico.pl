@@ -1,3 +1,9 @@
+%Padres
+padreDe('Javier','Sebastian').
+padreDe('Amparo','Sebastian').
+
+
+
 %Abuelos Maternos
 
 padreDe('Helena','Amparo').
