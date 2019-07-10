@@ -19,39 +19,62 @@ padreDe('Luis','Andrea').
 
 %Abuelo Paternos
 
-padreDe('Rubiela','Wilson').
-padreDe('Benedicto','Wilson').
-
-padreDe('Raul','Rubiela').
-padreDe('Marisol','Rubiela').
-
-padreDe('','').
-padreDe('','').
-
+padreDe('Jose','Javier').
+padreDe('Betty','Javier').
+padreDe('Jose','Yuvely').
+padreDe('Betty','Yuvely').
 
 %Bisabuelos Maternos
-padreDe('','').
-padreDe('','').
+padreDe('Patrocinio','Helena').
+padreDe('Limbania','Helena').
+padreDe('Patrocinio','Cecilia').
+padreDe('Limbania','Cecilia').
+padreDe('Patrocinio','Elisa').
+padreDe('Limbania','Elisa').
+padreDe('Patrocinio','Oliverio').
+padreDe('Limbania','Oliverio').
+padreDe('Patrocinio','Edelmira').
+padreDe('Limbania','Edelmira').
+padreDe('Patrocinio','Carmen').
+padreDe('Limbania','Carmen').
+padreDe('Patrocinio','Jaime').
+padreDe('Limbania','Jaime').
 
-padreDe('','').
-padreDe('','').
+
+padreDe('Fidel','Luis').
+padreDe('Salud','Luis').
+padreDe('Fidel','Samuel').
+padreDe('Salud','Samuel').
+padreDe('Fidel','Antonio').
+padreDe('Salud','Antonio').
+padreDe('Fidel','Anita').
+padreDe('Salud','Anita').
 
 %Bisabuelos Paternos
-padreDe('','').
-padreDe('','').
+padreDe('Tita','Betty').
+padreDe('Pedro','Betty').
+padreDe('Tita','Yolanda').
+padreDe('Pedro','Yolanda').
+padreDe('Tita','Marina').
+padreDe('Pedro','Marina').
 
-padreDe('','').
-padreDe('','').
+padreDe('Alberto','Jose').
+padreDe('Maria','Jose').
+padreDe('Alberto','Oscar').
+padreDe('Maria','Oscar').
+padreDe('Alberto','Esperanza').
+padreDe('Maria','Esperanza').
 
 
-%Tios e hijos
 
-padreDe('Nilian','Maria').
-padreDe('Nilian','Yesenia').
-padreDe('Nilian','Nailin').
-padreDe('Yesid','Maria').
-padreDe('Yesid','Yesenia').
-padreDe('Yesid','Nailin').
+%Tios y primos
+
+padreDe('Yuvely','Laura').
+padreDe('Jesus','Laura').
+padreDe('Yuvely','Salome').
+padreDe('Jesus','Salome').
+padreDe('Yuvely','Sara').
+padreDe('Jesus','Sara').
 
 
 %Reglas
